@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 838a084ac9ae15749a184f9cddfc9e68
+timeCreated: 1466092533
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _hitboxPrefab: {fileID: 112698, guid: df80d8d47876b4a4cb4e0809104d3073, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
